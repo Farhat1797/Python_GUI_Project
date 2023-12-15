@@ -23,5 +23,5 @@ The project provides an intuitive and easy-to-navigate user interface, allowing 
 Users can add, edit, and delete contacts seamlessly. Each contact entry may include details such as name, phone number, email address, and additional notes.
 ![Python_gui](/photos/3.png)
 ![Python_gui](/photos/4.png)
-![Python_gui](/photos/5.png)
+
 
